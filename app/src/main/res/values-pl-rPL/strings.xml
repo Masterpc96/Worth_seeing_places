@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miejsca warte zobaczenia</string>
+    <string name="noNet">Brak połączenia z Internetem</string>
+    <string name="hybrid">Satelita</string>
+    <string name="normal">Domyślny</string>
+    <string name="terrain">Teren</string>
+    <string name="gps">Musisz włączyć gps</string>
+</resources>

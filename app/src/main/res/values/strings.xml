@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Worth seeing places</string>
+    <string name="noNet">You don\'t have Internet connection</string>
+    <string name="google_maps_key">AIzaSyA5-NKvgJRBLN1zpHfUnYjeilNmvjVLPK4</string>
+    <string name="hybrid">Satellite</string>
+    <string name="normal">Normal</string>
+    <string name="terrain">Terrain</string>
+    <string name="gps">You must turn on gps</string>
+</resources>
